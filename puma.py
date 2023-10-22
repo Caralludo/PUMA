@@ -74,7 +74,7 @@ class RepairJoinedStr(ast.NodeTransformer):
 
 class ExpandInteger(ast.NodeTransformer):
     def visit_Constant(self, node):
-        if isinstance(node.value, int):
+        if isinstance(node.value, int) and not isinstance(node.value, bool):
             code = ""
             while True:
                 try:
