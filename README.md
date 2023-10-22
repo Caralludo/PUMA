@@ -11,7 +11,7 @@ $ file puma.py
 puma.py: Python script, Unicode text, UTF-8 text executable
 
 $ shasum puma.py 
-64072d6035d0fc5743d6e0d3cdd1cfd569dafc31  puma.py
+f94c7243a16e99713b695fe7f15ac7aed6ea298d  puma.py
 ```
 
 # DEMO
