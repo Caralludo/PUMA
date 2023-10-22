@@ -15,4 +15,4 @@ f94c7243a16e99713b695fe7f15ac7aed6ea298d  puma.py
 ```
 
 # DEMO
-[![asciicast](https://asciinema.org/a/616235.png)](https://asciinema.org/a/616235)
+[![asciicast](https://asciinema.org/a/616349.png)](https://asciinema.org/a/616349)
